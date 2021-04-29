@@ -26,7 +26,7 @@ The module is exported as a single function, that gets a table and tabs(*optiona
 [_LEADING_SPACE*(tabs+1)] [key1]: [deepString(value1, tabs+1)]
 [_LEADING_SPACE*(tabs+1)] [key2]: [deepString(value2, tabs+1)]
 ...
-[_LEADING_SPACE*(tabs+1)] [keyn]: [deepString(value, tabs+1)]
+[_LEADING_SPACE*(tabs+1)] [keyn]: [deepString(valuen, tabs+1)]
 [_LEADING_SPACE*tabs] }
 ```
 
